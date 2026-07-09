@@ -1,0 +1,6 @@
+# Done:
+X - Disabled and completely removed autofill
+X - remove sliding tabs to close
+X - Make it automatic to open with requested app? (Youtube)
+X - Remove auto hiding of navigation bar
+X - Added walled garden mode
